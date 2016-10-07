@@ -11,3 +11,5 @@ https://learn.sparkfun.com/tutorials/tags/arduino?page=all
 https://learn.adafruit.com/category/arduino
 
 https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLir_96O_k3klCo-7Dm-HFUmZCIwftAZIm (lista de videos)
+
+https://circuits.io/ (Plataforma de simulação)
